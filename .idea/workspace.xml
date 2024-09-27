@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d7f2a1b-15a4-48f7-a4fb-ed5a488b99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojo/AddObjectPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojo/DataPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/RequestSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/ResponseSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/RestAssuredUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Add_Object_and_Get_Object.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/add_object.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/update_object.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: AddObject.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Add_Object_and_Get_Object.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Delete_Object.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Update_Object.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can add object and get object.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can delete object.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can update object.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/UST_java/RestfulAPI&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/UST_java/APIModuleTest/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: AddObject.executor": "Run",
+    "Cucumber Java.Feature: Add_Object_and_Get_Object.executor": "Run",
+    "Cucumber Java.Feature: Delete_Object.executor": "Run",
+    "Cucumber Java.Feature: Update_Object.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can add object and get object.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can delete object.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can update object.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/UST_java/RestfulAPI",
+    "onboarding.tips.debug.path": "C:/UST_java/APIModuleTest/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\UST_java\APIModuleTest\src\test\resources\json" />
