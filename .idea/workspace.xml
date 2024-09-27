@@ -47,23 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cucumber Java.Feature: AddObject.executor": "Run",
-    "Cucumber Java.Feature: Add_Object_and_Get_Object.executor": "Run",
-    "Cucumber Java.Feature: Delete_Object.executor": "Run",
-    "Cucumber Java.Feature: Update_Object.executor": "Run",
-    "Cucumber Java.Scenario: Verify user can add object and get object.executor": "Run",
-    "Cucumber Java.Scenario: Verify user can delete object.executor": "Run",
-    "Cucumber Java.Scenario: Verify user can update object.executor": "Run",
-    "JUnit.TestRunner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/UST_java/RestfulAPI",
-    "onboarding.tips.debug.path": "C:/UST_java/APIModuleTest/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: AddObject.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Add_Object_and_Get_Object.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Delete_Object.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Update_Object.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify user can add object and get object.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify user can delete object.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify user can update object.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/UST_java/RestfulAPI&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/UST_java/APIModuleTest/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\UST_java\APIModuleTest\src\test\resources\json" />
